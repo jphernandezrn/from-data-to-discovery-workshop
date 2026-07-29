@@ -288,7 +288,7 @@ Participants prepare datasets for statistical analysis.
 
 ```
 Codebooks/
-└── Group Survey_Recoding_Codebooks.xlsx
+└── Group_Survey_Recoding_Codebooks.xlsx
 ```
 
 Provides standardized coding guides for recoding survey responses into analysis-ready datasets.
@@ -415,7 +415,7 @@ Each research group produces
 │   └── Generate_QR_Code_for_Google_Forms.txt
 │
 ├── Codebooks/
-│   └── Group Survey_Recoding_Codebooks.xlsx
+│   └── Group_Survey_Recoding_Codebooks.xlsx
 │
 ├── Sample_Dataset_and_Codebook/
 │   ├── Sample_Dataset_AI-Supported_Academic_Skills_and_Critical_Thinking_Survey_Responses.csv
