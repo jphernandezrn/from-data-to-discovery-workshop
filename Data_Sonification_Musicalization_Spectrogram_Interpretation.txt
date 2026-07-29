@@ -1,0 +1,174 @@
+Master Prompt: Generate Scientific Data Sonification, Data Musicalization, Spectrogram, and Interpretation from an Uploaded Sonification Parameter File
+
+Generate a publication-quality scientific data sonification from the
+uploaded sonification parameter file.
+
+The uploaded file contains the authoritative data-to-sound mappings
+(e.g., statistical variables, path coefficients, significance levels,
+frequencies, amplitudes, durations, note mappings, timing, decay,
+synthesis parameters, and related metadata). Preserve these mappings
+unless I explicitly request modifications.
+
+The objective is to transform the dataset into an audio representation
+that is scientifically accurate, perceptually meaningful, aesthetically
+engaging, emotionally compelling, and easy to interpret by listening.
+
+================================================== STEP 1 – USER MUSIC
+PREFERENCES ==================================================
+
+Before generating the audio, ask me to customize the sonification.
+
+A. Select the Overall Style: Scientific Sonification, Ambient,
+Cinematic, Documentary, Orchestral, Electronic, Minimalist,
+Contemporary, Inspirational, Meditation, Sci-Fi, Space Soundscape,
+Nature Soundscape, Film Score, Game Soundtrack, Experimental, or Custom.
+
+B. Select Musical Instruments: Choose one or more Western instruments
+(keyboard, strings, woodwinds, brass, percussion, choir, electronic,
+world instruments).
+
+C. Filipino Indigenous Instruments: Choose one or more: Gangsa,
+Tongatong, Pattatag, Saggeypo, Bungkaka, Kulintang, Agung, Gandingan,
+Dabakan, Babandil, Kubing, Kudyapi, Suling, Bamboo Flute, Bamboo
+Percussion, Native Drums, Rondalla Ensemble, Bandurria, Octavina, Laud,
+Traditional Guitar, Bamboo Instruments, Nose Flute, Shell Percussion.
+
+D. Instrument Mixing: Ask me how I want the instruments blended. Allow
+custom percentages and verify that they total 100%.
+
+Example: 30% Kulintang 20% Gangsa 20% Ambient Space Synth 20% Concert
+Harp 10% Mixed Choir
+
+E. Musical Characteristics: Tempo, Musical Key, Scale, Mode, Time
+Signature, Octave Range, Dynamics, Stereo Width, Reverb, Delay,
+Compression, Equalization, Fade-In, Fade-Out, Maximum Duration, Looping,
+Random Seed.
+
+F. Background Ambience: None, Space, ISS, Cosmic, Forest, Ocean, Rain,
+Wind, Cave, Laboratory, White Noise, Pink Noise, Brown Noise, Heartbeat,
+or Custom.
+
+================================================== STEP 2 – SCIENTIFIC
+DATA SONIFICATION ==================================================
+
+Generate the sonification while preserving all uploaded parameter
+mappings.
+
+Example mappings:
+
+β coefficient → Pitch Path strength → Pitch contour Effect size →
+Loudness p-value → Harmonic richness Confidence → Sustain Standard error
+→ Vibrato Residual variance → Noise Positive coefficient → Major
+intervals Negative coefficient → Minor intervals Delay → Rhythm Segment
+start → Temporal placement Amplitude → Volume Decay → Sustain Clusters →
+Instrument grouping Outliers → Accent sounds
+
+================================================== STEP 3 – OPTIONAL
+DATA MUSICALIZATION ==================================================
+
+Optionally convert the scientific sonification into a musical
+composition while preserving all scientific mappings.
+
+Enhance musical coherence, emotional engagement, memorability, and
+aesthetics without altering the statistical relationships.
+
+================================================== STEP 4 – AUDIO OUTPUT
+==================================================
+
+Generate:
+
+• MP3 (320 kbps) • WAV (48 kHz lossless)
+
+Stereo 44.1 or 48 kHz Normalized loudness Fade-in Fade-out
+Publication-quality audio
+
+================================================== STEP 5 –
+HIGH-RESOLUTION SPECTROGRAM
+==================================================
+
+Generate a publication-quality spectrogram.
+
+Specifications:
+
+• PNG • Minimum 600 dpi • Print quality • Large readable labels •
+Colorblind-friendly palette • High contrast • Title • Time (seconds) •
+Frequency (Hz) • Color intensity legend • Scientific annotations (if
+appropriate)
+
+Suitable for journal publications and conference posters.
+
+================================================== STEP 6 – LISTENING
+GUIDE ==================================================
+
+Explain clearly how listeners should interpret the audio.
+
+Examples:
+
+Higher β → Higher notes Lower β → Lower notes Significant paths → Richer
+harmonies Non-significant paths → Simpler tones Positive relationships →
+Major chords Negative relationships → Minor chords Large effects →
+Louder sounds High confidence → Longer sustain Clusters → Instrument
+families Outliers → Accent sounds
+
+================================================== STEP 7 – SCIENTIFIC
+INTERPRETATION ==================================================
+
+Generate:
+
+1.  Technical scientific interpretation describing:
+
+-   strongest and weakest effects
+-   significant and non-significant relationships
+-   timing
+-   clusters
+-   uncertainty
+-   confidence
+-   notable musical transitions
+
+2.  Plain-language interpretation for general audiences that explains:
+
+-   what listeners are hearing
+-   why sounds change
+-   what each instrument represents
+-   why the music evolves over time
+
+3.  Musical interpretation describing:
+
+-   why each instrument was selected
+-   how the blend supports interpretation
+-   emotional character
+-   musical structure
+
+4.  Cultural interpretation (if Filipino instruments are used):
+
+-   traditional roles of the instruments
+-   how they complement the scientific narrative
+-   how they enhance public engagement
+
+================================================== STEP 8 – DELIVERABLES
+==================================================
+
+Generate:
+
+• MP3 audio • WAV audio • High-resolution PNG spectrogram (minimum 600
+dpi) • Sonification parameter summary • Data-to-sound mapping table •
+Instrument list • Instrument mixing proportions • Musical settings
+summary • Listening guide • Technical scientific interpretation •
+Plain-language interpretation • Musical interpretation • Cultural
+interpretation (if applicable) • Presentation-ready figure captions •
+Journal-ready figure captions
+
+================================================== QUALITY REQUIREMENTS
+==================================================
+
+The outputs should be:
+
+• scientifically rigorous • publication quality • journal ready •
+conference ready • emotionally engaging • aesthetically compelling •
+auditorily interpretable • visually interpretable • suitable for
+education • suitable for museums • suitable for scientific outreach •
+suitable for public exhibitions
+
+Always preserve the scientific integrity of the uploaded dataset while
+maximizing interpretability, listener engagement, visual quality, and
+musical excellence.

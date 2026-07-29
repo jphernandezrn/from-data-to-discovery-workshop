@@ -1,0 +1,20 @@
+Generate a high-resolution QR code for the following Google Forms survey
+link:
+
+[PASTE GOOGLE FORMS URL HERE]
+
+Requirements: - Encode only the exact Google Forms URL without
+modification. - Use a high error correction level (Level H) for reliable
+scanning. - Export as a high-resolution PNG (minimum 300 dpi) suitable
+for print and digital use. - Use a black QR code on a white background
+for maximum compatibility. - Include a 4-module quiet zone (white
+border) around the QR code. - Verify that the QR code scans correctly
+and opens the Google Forms survey. - Add the label below the QR code:
+
+“Scan to Complete the Survey”
+
+-   Below the label, include the shortened survey URL (if available) or
+    the original Google Forms URL in a readable font.
+-   Center-align all elements.
+-   Ensure the final output is suitable for posters, PowerPoint
+    presentations, flyers, conference materials, and social media posts.

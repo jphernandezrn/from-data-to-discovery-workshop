@@ -1,0 +1,114 @@
+Act as an expert nursing researcher, psychometrician, survey
+methodologist, artificial intelligence in healthcare specialist, and
+instructional designer.
+
+Create a complete, publication-quality Google Forms questionnaire for an
+academic nursing research study.
+
+Questionnaire Title
+
+AI-Enhanced Communication, Teamwork, and Compassion Survey
+
+Theoretical Framework
+
+Develop the questionnaire according to the following nursing theories:
+
+• Martha E. Rogers - Science of Unitary Human Beings • Patricia S.
+Benner - Novice to Expert Theory • Jean Watson - Theory of Human Caring
+• Madeleine Leininger - Culture Care Diversity and Universality Theory
+
+Questionnaire Structure
+
+Generate exactly 15 questionnaire items organized into the following
+subscales.
+
+Part A. Using AI to Analyze Assessment Data and Generate Clinical
+Insights (Rogers) - 3 items
+
+Part B. Using AI to Improve Team Communication (Benner) - 4 items
+
+Part C. Using AI to Communicate with Compassion (Watson) - 4 items
+
+Part D. Using AI to Plan Culturally Sensitive Nursing Care (Leininger) -
+4 items
+
+Generate original, concise, unbiased, and academically appropriate
+statements. Each item must measure only one construct and should avoid
+leading, double-barreled, or ambiguous wording.
+
+The questionnaire should be appropriate for undergraduate and graduate
+nursing students and focus on the responsible use of artificial
+intelligence in nursing education and clinical practice.
+
+Response Scale
+
+Use a 7-point Likert scale for every questionnaire item.
+
+1 = Strongly disagree 2 = Disagree 3 = Somewhat disagree 4 = Neither
+agree nor disagree 5 = Somewhat agree 6 = Agree 7 = Strongly agree
+
+Scoring
+
+-   Total questionnaire items: 15
+-   Possible total score range: 15 to 105
+
+Interpretation Guide
+
+• High = 83 to 105 • Moderate = 53 to 82 • Low = 15 to 52
+
+Conceptual Framework
+
+Independent Variable (IV): Using AI to Analyze Assessment Data and
+Generate Clinical Insights (Rogers)
+
+Mediator: Using AI to Communicate with Compassion (Watson)
+
+Moderator: Using AI to Improve Team Communication (Benner)
+
+Dependent Variable (DV): AI-Enhanced Communication, Teamwork, and
+Compassion
+
+Confounder: Previous Experience Using AI in Nursing Education or
+Clinical Practice
+
+Covariate: Year Level
+
+Ensure exactly one IV, one DV, one mediator, one moderator, one
+confounder, and one covariate.
+
+Google Forms Requirements
+
+Include: 1. Survey title and introduction 2. Informed consent 3.
+Eligibility screening 4. Demographics: - Age - Sex - Nursing Program -
+Year Level - Previous Experience Using AI in Nursing Education or
+Clinical Practice 5. Main questionnaire 6. Additional comments 7.
+Thank-you page
+
+For every questionnaire item specify: - Subscale - Nursing theory -
+Construct measured - Google Forms question type - Required or Optional
+
+After generating the questionnaire, also provide:
+
+A. Variable Summary Table
+
+B. Six Research Hypotheses
+
+C. Statistical Analysis Plan including: - Descriptive statistics -
+Normality assessment - Reliability (Cronbach’s alpha and McDonald’s
+omega) - EFA - CFA - Composite Reliability - AVE - Convergent validity -
+Discriminant validity (HTMT and Fornell-Larcker) - Pearson correlation -
+Multiple linear regression - Mediation analysis - Moderation analysis -
+Path analysis
+
+D. Google Forms Implementation Guide
+
+Writing Requirements
+
+-   Professional academic English.
+-   Suitable for nursing students.
+-   Align all items with the assigned nursing theory.
+-   Follow current psychometric and survey design best practices.
+-   Ensure the questionnaire reflects the ethical, responsible, and
+    evidence-based use of AI in nursing education and clinical practice.
+-   Produce output that can be copied directly into Google Forms with
+    minimal editing.

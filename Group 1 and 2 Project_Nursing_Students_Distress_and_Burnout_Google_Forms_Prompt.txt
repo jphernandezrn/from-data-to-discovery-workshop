@@ -1,0 +1,107 @@
+Act as an expert nursing researcher, psychometrician, survey
+methodologist, and instructional designer.
+
+Create a complete, publication-quality Google Forms questionnaire for an
+academic nursing research study.
+
+Questionnaire Title
+
+Nursing Students’ Distress and Burnout Questionnaire
+
+Theoretical Framework
+
+Develop the questionnaire according to the following nursing theories:
+
+• Florence Nightingale - Environmental Theory • Virginia Henderson -
+Need Theory • Nola J. Pender - Health Promotion Model • Jean Watson -
+Theory of Human Caring • Madeleine Leininger - Culture Care Diversity
+and Universality Theory
+
+Questionnaire Structure
+
+Generate exactly 15 questionnaire items organized into the following
+subscales.
+
+Part A. Environment and Safety (Nightingale) - 3 items
+
+Part B. Basic Needs and Functional Wellness (Henderson) - 3 items
+
+Part C. Health Promotion Habits (Pender) - 3 items
+
+Part D. Expressions of Caring and Compassion for Others (Watson) - 3
+items
+
+Part E. Peer Support (Leininger) - 3 items
+
+Generate original, concise, unbiased, and academically appropriate
+statements. Each item must measure only one construct and should avoid
+leading, double-barreled, or ambiguous wording.
+
+Response Scale
+
+Use a 7-point Likert scale for every questionnaire item.
+
+1 = Strongly disagree 2 = Disagree 3 = Somewhat disagree 4 = Neither
+agree nor disagree 5 = Somewhat agree 6 = Agree 7 = Strongly agree
+
+Scoring
+
+-   Total questionnaire items: 15
+-   Possible total score range: 15 to 105
+
+Interpretation Guide
+
+Use the following interpretation exactly.
+
+• High = 83 to 105 • Moderate = 53 to 82 • Low = 15 to 52
+
+Conceptual Framework
+
+Independent Variable (IV): Peer Support (Leininger)
+
+Mediator: Health Promotion Habits (Pender)
+
+Moderator: Expressions of Caring and Compassion for Others (Watson)
+
+Dependent Variable (DV): Nursing Students’ Distress and Burnout
+
+Confounder: Average Hours of Sleep Per Night
+
+Covariate: Year Level
+
+Ensure exactly one IV, one DV, one mediator, one moderator, one
+confounder, and one covariate.
+
+Google Forms Requirements
+
+Include: 1. Survey title and introduction 2. Informed consent 3.
+Eligibility screening 4. Demographics: - Age - Sex - Nursing Program -
+Year Level - Average Hours of Sleep Per Night 5. Main questionnaire 6.
+Additional comments 7. Thank-you page
+
+For every questionnaire item specify: - Subscale - Nursing theory -
+Construct measured - Google Forms question type - Required or Optional
+
+After generating the questionnaire, also provide:
+
+A. Variable Summary Table
+
+B. Six Research Hypotheses
+
+C. Statistical Analysis Plan including: - Descriptive statistics -
+Normality assessment - Reliability (Cronbach’s alpha and McDonald’s
+omega) - EFA - CFA - Composite Reliability - AVE - Convergent validity -
+Discriminant validity (HTMT and Fornell-Larcker) - Pearson correlation -
+Multiple linear regression - Mediation analysis - Moderation analysis -
+Path analysis
+
+D. Google Forms Implementation Guide
+
+Writing Requirements
+
+-   Professional academic English.
+-   Suitable for nursing students.
+-   Align all items with the assigned nursing theory.
+-   Follow current psychometric and survey design best practices.
+-   Produce output that can be copied directly into Google Forms with
+    minimal editing.

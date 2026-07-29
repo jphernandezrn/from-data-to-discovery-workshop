@@ -1,0 +1,130 @@
+UNIFIED MASTER PROMPT SPECIFICATION Publication-Quality Scientific
+Poster Generation Version 2.0
+
+================================================================= 1.
+PURPOSE
+=================================================================
+Generate a publication-quality scientific poster from an uploaded
+Microsoft Word manuscript. The manuscript is the authoritative source.
+Extract, summarize, reorganize, and visualize only information supported
+by the manuscript.
+
+================================================================= 2.
+USER CONFIGURATION
+================================================================= 2.1
+Poster Orientation Ask the user to select: - Portrait - Landscape
+Default: Landscape if not specified.
+
+2.2 Poster Size - A0 - A1 - A2 - 36 × 48 in - 42 × 56 in - Custom
+
+2.3 Resolution - Minimum: 300 dpi - Preferred: 600 dpi
+
+2.4 Color Mode - CMYK - RGB
+
+2.5 Color Theme
+
+2.6 Design Style Examples: Professional Scientific, Springer, Nature,
+IEEE, Elsevier, Medical, Engineering, Aerospace, AI/Technology,
+Minimalist, Modern, Infographic, Custom.
+
+2.7 Venue (Optional) Ask for the target conference, journal, or
+institution. Request official poster guidelines or URL if available.
+
+================================================================= 3.
+DATA SONIFICATION (OPTIONAL)
+================================================================= 3.1 QR
+Code Ask whether to include a QR code.
+
+If Yes: - Request a PUBLIC audio URL from a permanent online
+repository. - URL must not require login. - Generate one QR code linking
+only to the audio URL. - Place it only in Results. - Label: Data
+Sonification Audio. - Caption: Scan to listen to the research data
+sonification.
+
+If no URL: - No QR code. - No placeholder. - Rebalance layout.
+
+3.2 Spectrogram Ask whether to include a spectrogram.
+
+Option A (Recommended): Upload MP3 or WAV.
+
+Option B: Upload a sonification parameter CSV. Generate audio from the
+CSV, then generate the spectrogram.
+
+Spectrogram: - PNG - ≥600 dpi - Frequency axis (Hz) - Time axis (s) -
+Intensity scale - Colorblind-friendly palette - Large labels - Caption:
+Spectrogram of the Data Sonification
+
+3.3 Validation If both a public URL and audio file are supplied, verify
+they represent the same sonification before generating the poster.
+
+3.4 Conditional Logic - URL only → QR only. - URL + Audio → QR +
+spectrogram. - URL + CSV → QR + synthesized spectrogram. - Audio only →
+spectrogram only. - CSV only → synthesized spectrogram only. - None →
+neither; rebalance layout.
+
+================================================================= 4.
+CONTENT EXTRACTION
+=================================================================
+Extract and summarize: Title, Authors, Affiliations, Corresponding
+Author Email, Background, Objectives, Methods, Results, Discussion,
+Conclusions, Recommendations, Limitations, Funding, Acknowledgments.
+
+Place the corresponding author email beneath affiliations as plain text.
+
+Rewrite the abstract into 5–7 concise bullet points.
+
+Reduce manuscript text by ~60–80% while preserving scientific meaning.
+
+================================================================= 5.
+INTELLIGENT LAYOUT OPTIMIZATION
+=================================================================
+Automatically determine the best 2-, 3-, or 4-column layout. Optimize
+whitespace. Resize figures proportionally. Maintain accessibility and
+readability. Automatically redistribute space when optional elements are
+omitted.
+
+================================================================= 6.
+DESIGN REQUIREMENTS
+================================================================= Unless
+explicitly requested, exclude logos, institutional seals, icons,
+pictograms, emojis, clip art, decorative symbols, decorative graphics,
+watermarks, bottom slogans, and bottom text blocks.
+
+Do not generate icons of any kind. Replace icons with clean typography,
+scientific diagrams, geometric separators, lines, shaded section
+headers, or whitespace to establish visual hierarchy.
+
+Minimum body text: 22 pt.
+
+================================================================= 7.
+OUTPUTS
+=================================================================
+Generate: - High-resolution PNG - Optional SVG - CMYK version - RGB
+version
+
+================================================================= 8.
+EDIT PRESERVATION
+=================================================================
+Preserve: - Layout - Typography - Visual hierarchy - Figures - Charts -
+Tables - Diagrams - Illustrations - Colors (unless changed) - Spacing -
+Alignment - Resolution - Overall appearance
+
+Modify only requested elements. Do not unnecessarily regenerate
+graphics. Avoid distortion or quality loss. Ensure new content matches
+the existing design language.
+
+================================================================= 9.
+QUALITY ASSURANCE
+=================================================================
+Verify: - Grammar and spelling - Fidelity to manuscript - Figure/table
+captions - Typography consistency - Alignment - Accessibility - QR
+functionality - Spectrogram quality - Print-safe margins -
+Publication-quality appearance
+
+================================================================= 10.
+FINAL OBJECTIVE
+=================================================================
+Produce a visually compelling, scientifically rigorous,
+publication-quality poster suitable for conferences, journals, and
+large-format printing while preserving scientific accuracy,
+accessibility, edit stability, and visual quality.

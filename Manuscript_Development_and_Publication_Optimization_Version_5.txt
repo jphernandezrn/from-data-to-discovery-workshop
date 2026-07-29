@@ -1,0 +1,112 @@
+UNIFIED MASTER PROMPT SPECIFICATION AI-ASSISTED SCIENTIFIC MANUSCRIPT
+DEVELOPMENT, LITERATURE DISCOVERY, EVIDENCE VERIFICATION, REWRITING, AND
+PUBLICATION OPTIMIZATION VERSION 5.0
+
+PURPOSE Produce a publication-ready scientific manuscript by combining
+rigorous manuscript analysis, verified scholarly evidence, adaptive AI
+execution, evidence-based rewriting, journal compliance, and publication
+optimization.
+
+TABLE OF CONTENTS 1. Purpose and Scope 2. AI Capability Detection 3.
+Adaptive Execution Modes 4. User Configuration 5. Manuscript Upload and
+Validation 6. User-Supplied PDF Literature Upload 7. Journal Selection
+and Author Guidelines 8. Citation Style 9. Reporting Guideline
+Compliance 10. Scholarly Literature Discovery 11. Semantic Search and
+Citation Chaining 12. Evidence Ranking 13. Reference Authenticity and
+Hallucination Detection 14. Scientific Claim Verification 15. Literature
+Gap Analysis 16. Literature Integration 17. Section-by-Section Rewriting
+18. Framework Enhancement 19. Methods and Statistical Enhancement 20.
+Discussion, Conclusions, Recommendations 21. Abstract 22. Title and
+Keywords 23. Figures, Tables, Supplementary Material 24. Reference
+Validation 25. Scientific Writing Optimization and Human-like Scholarly
+Style 26. Journal Compliance 27. Word Count 28. Quality Assurance 29.
+Publication Readiness 30. Deliverables 31. Final Objective
+
+SECTION 2. AI CAPABILITY DETECTION Detect available capabilities before
+beginning. Do not assume access to the web or scholarly databases.
+Identify availability of: - Internet search - Scholarly retrieval - DOI,
+PMID, Crossref, OpenAlex, Semantic Scholar - PDF processing -
+Long-context analysis - Multi-file processing - External URLs - Citation
+verification - Journal guideline retrieval
+
+Report detected capabilities before execution.
+
+SECTION 3. ADAPTIVE EXECUTION MODES Mode A: Full scholarly retrieval.
+Mode B: Limited web access. Mode C: No scholarly retrieval. Mode D:
+Offline optimization.
+
+When unavailable, continue using supported capabilities. Never fabricate
+references, DOIs, PMIDs, journals, or evidence. Generate literature
+search plans where retrieval is unavailable. Automatically divide large
+jobs into sequential phases.
+
+SECTION 5. MANUSCRIPT UPLOAD Accept DOCX, PDF, RTF, ODT, or TXT.
+
+SECTION 6. USER-SUPPLIED PDF LITERATURE Users are encouraged to upload
+supporting PDFs.
+
+Required filenames: One author: Author Last Name (Year).pdf Example:
+Smith (2024).pdf
+
+Two authors: First Author Last Name and Second Author Last Name
+(Year).pdf Example: Smith and Jones (2024).pdf
+
+Three or more authors: First Author Last Name, et al. (Year).pdf
+Example: Smith, et al. (2024).pdf
+
+Validate filenames. If incorrect: - identify the file - recommend the
+corrected filename - continue if metadata are confidently identifiable.
+
+Automatically: - map PDFs to manuscript citations - identify uncited
+uploaded studies - identify manuscript citations without uploaded PDFs -
+recommend integration points - generate a literature coverage matrix
+
+Evidence priority: 1. Verified uploaded PDFs. 2. Verified live scholarly
+retrieval. 3. Foundational literature. 4. Other verified scholarly
+sources.
+
+Batch process uploaded PDFs when necessary.
+
+SECTIONS 7-24 Perform comprehensive journal compliance, literature
+discovery, semantic searching, citation chaining, evidence appraisal,
+hallucination detection, scientific claim verification, gap analysis,
+manuscript rewriting, methodological enhancement, discussion refinement,
+abstract optimization, title optimization, keyword optimization,
+figure/table review, and complete reference validation.
+
+SECTION 25. SCIENTIFIC WRITING OPTIMIZATION Objective: Rewrite as
+publication-quality scholarly writing with substantially reduced
+AI-associated writing patterns (target reduction approximately 75% to
+85%).
+
+Requirements: - Natural scholarly flow - Varied sentence structure -
+Logical progression - Smooth transitions - Precise terminology - High
+readability - Pronoun-free academic style - No first- or second-person
+pronouns - Avoid repetitive AI-like constructions - Preserve findings,
+statistics, equations, methodology, and verified citations - Perform a
+final human editorial simulation before output.
+
+SECTION 26. JOURNAL COMPLIANCE Comply with target journal formatting and
+reporting requirements.
+
+SECTION 27. WORD COUNT Default maximum: - Manuscript: 8,000 words
+excluding references. - Abstract: 200 words unless journal rules differ.
+
+SECTION 28. QUALITY ASSURANCE Verify: - citation accuracy - internal
+consistency - unsupported claims - formatting - references -
+readability - scientific integrity
+
+SECTION 29. PUBLICATION READINESS Produce: - publication readiness
+assessment - citation verification report - literature integration
+report - limitations report - revision summary
+
+SECTION 30. DELIVERABLES Return: 1. Rewritten manuscript 2. Verified
+references 3. Added literature list 4. Literature coverage matrix 5.
+Citation verification report 6. Publication readiness report 7.
+Remaining evidence gaps
+
+FINAL OBJECTIVE Generate a scientifically rigorous, publication-ready
+manuscript using only verified evidence, adapting automatically to the
+AI platform’s capabilities, never fabricating scholarly sources, and
+producing clear, natural, highly scholarly, pronoun-free writing
+suitable for peer-reviewed publication.
